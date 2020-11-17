@@ -1,0 +1,38 @@
+{
+  "name": "Blog Mom and Baby",
+  "short_name": "MomBaby",
+  "start_url": "https://www.blogmomandbaby.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Blog tentang program ibu hamil | proses kehamilan | pasca melahirkan | perawatan bayi sejak lahir | pendidikan anak",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-MkZ4PGrFxo8/X7PigUP0d3I/AAAAAAAAE7I/SchivmAKUDsFvhsSKYWvjsx1UQEx4r3UQCLcBGAsYHQ/s48/log.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-MkZ4PGrFxo8/X7PigUP0d3I/AAAAAAAAE7I/SchivmAKUDsFvhsSKYWvjsx1UQEx4r3UQCLcBGAsYHQ/s72/log.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-MkZ4PGrFxo8/X7PigUP0d3I/AAAAAAAAE7I/SchivmAKUDsFvhsSKYWvjsx1UQEx4r3UQCLcBGAsYHQ/s96/log.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-MkZ4PGrFxo8/X7PigUP0d3I/AAAAAAAAE7I/SchivmAKUDsFvhsSKYWvjsx1UQEx4r3UQCLcBGAsYHQ/s144/log.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-MkZ4PGrFxo8/X7PigUP0d3I/AAAAAAAAE7I/SchivmAKUDsFvhsSKYWvjsx1UQEx4r3UQCLcBGAsYHQ/s168/log.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-MkZ4PGrFxo8/X7PigUP0d3I/AAAAAAAAE7I/SchivmAKUDsFvhsSKYWvjsx1UQEx4r3UQCLcBGAsYHQ/s192/log.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-MkZ4PGrFxo8/X7PigUP0d3I/AAAAAAAAE7I/SchivmAKUDsFvhsSKYWvjsx1UQEx4r3UQCLcBGAsYHQ/s512/log.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
